@@ -40,5 +40,5 @@ You can install these libraries using `pip`, the Python package manager. Open a 
 pip install pandas
 pip install numpy
 pip install openpyxl
-
+```
 Feel free to use and modify these scripts according to your needs. If you encounter any issues or have any suggestions, please create an issue in this repository. Happy inventorying!
